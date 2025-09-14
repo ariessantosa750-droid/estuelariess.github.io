@@ -1,0 +1,1 @@
+Ini adalah absensi QR code berbasis web yang ringan yang dilengkapi dengan qrcode yang terintegritas dengan notifikasi orang tua siswa, yang akan mempermudah dalam perekepan dan memudahkan orangtua siswa dalam memantau anak-anaknya dalam kehadiran anaknya disekolah
